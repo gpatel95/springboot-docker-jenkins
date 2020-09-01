@@ -50,7 +50,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>docker</finalName>
+		<finalName>docker-git</finalName>
 	</build>
 
 </project>
